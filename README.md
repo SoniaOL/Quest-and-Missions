@@ -1,4 +1,4 @@
-# Quest-and-Missions
+# Quests-and-Missions
 
 # Introduction
 
@@ -12,6 +12,8 @@ On the other hand, side quests are optional tasks that the players can complete 
 
 There can be many types of missions and quests depending on the game's genre, story and mechanics, but here I will explain some tips you can use yo make your own. 
 
-## What to avoid while writing a quest 
+# What to avoid while writing a quest 
+
+
 
 
