@@ -38,11 +38,15 @@ If your game has a strong narrative focus, probably the players will want to exp
 
 One good example of this can be the loyalty missions in Mass Effect 2, in which you as the player can choose to gain the loyalty of the squad members you want, getting to know their backstory and motivations. Completing these missions not only gives you more story, but also makes the members more effective in combat and may impact on the game’s ending. 
 
+![a](https://oyster.ignimgs.com/mediawiki/apis.ign.com/mass-effect-2/3/36/Eye_for_an_Eye_slice20.png?width=640)
+
 ## Give challenges and prices to your players 
 
 Some missions can be made just to give challenges to the player and, although I wouldn't recommend using this for main missions of the game that may be too much for some people, it can be a very good idea for a side quest with a satisfying reward for players that like challenges.  
 
 A mission that does this that I like is the Colosseum of Fools in Hollow Knight, which has a series of combats that you have to win to recollect prices. None of these combats are required in order to pass the game, but it gives you items and coins that can be very useful in the game. 
+
+![b](https://playerassist.com/wp-content/uploads/2022/01/CA64B6D3-45F7-47FD-BEF9-65012703D04A.jpeg)
 
 ## Offer variety to the game
 
@@ -50,8 +54,12 @@ One thing that will probably cause the player to get bored of your game quickly 
 
 An extreme example of this is the Yakuza video games, which have a lot of different activities and mini games in every corner of the map for the player to find and try, going from the normal action of the game to taking a break playing mahjong, finding a job or just singing in a karaoke.  
 
+![c](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/11/yakuza-7-minigames.jpg)
+
 Depending on the game it won't be necessary to reach this extreme of variety, especially having in mind that making a lot of new mechanics for every new mission is a lot of work. I would recommend that at least for the majority of missions you use the same mechanics that the player already knows, and find a way to make it a little different using narrative resources or different challenges.  
 This can be seen in the mission From the Ground Up in Breath of the Wild, in which all you have to do is recollect materials and delivering them like in many other games, but what I think makes this mission more special is that you can see the progress that you are making while watching a village being slowly build up thanks to your help, and seeing more and more people living in the village and selling their products. 
+
+![d](https://www.zeldadungeon.net/wp-content/uploads/2020/06/zelda_botw_tarrey_town_1-1-e1592850858839.jpg)
 
 # Conclusions 
 
