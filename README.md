@@ -66,10 +66,11 @@ This can be seen in the mission From the Ground Up in Breath of the Wild, in whi
 In order to make missions it is important not only to do it for the sake of filling the game, but to give a nice experience to the player, giving them stories, funny situations, difficult challenges and just making them feel curiosity of the world that you have created. 
 
 # References
-- https://www.nyfa.edu/student-resources/tips-designing-fun-side-quests/
-- https://www.youtube.com/watch?v=yTJ_RjfhGVQ
-- https://www.youtube.com/watch?v=m7WPuadDR48
-- https://www.youtube.com/watch?v=otAkP5VjIv8
-- https://www.youtube.com/watch?v=ur6GQp5mCYs
+- [Six Invaluable Tips For Designing Fun Side Quests - NYFA](https://www.nyfa.edu/student-resources/tips-designing-fun-side-quests/)
+- [Side Quests - How To Make A Good Detour](https://www.youtube.com/watch?v=yTJ_RjfhGVQ)
+- [You Deserve Better Side Quests - Extra Credits Gaming](https://www.youtube.com/watch?v=m7WPuadDR48)
+- [Quest Design - I: Why Many MMOs Rely on Repetitive Grind Quests - Extra Credits
+](https://www.youtube.com/watch?v=otAkP5VjIv8)
+- [Quest Design - II: How to Create Interesting MMO and RPG Quests - Extra Credits](https://www.youtube.com/watch?v=ur6GQp5mCYs)
 
 
