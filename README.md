@@ -63,9 +63,11 @@ One thing that will probably cause the player to get bored of your game quickly 
 An extreme example of this is the Yakuza video games, which have a lot of different activities and mini games in every corner of the map for the player to find and try, going from the normal action of the game to taking a break playing mahjong, finding a job or just singing in a karaoke.  
 
 ![c](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/11/yakuza-7-minigames.jpg)
+## Elaborate on the same mechanics
 
 Depending on the game it won't be necessary to reach this extreme of variety, especially having in mind that making a lot of new mechanics for every new mission is a lot of work. I would recommend that at least for the majority of missions you use the same mechanics that the player already knows, and find a way to make it a little different using narrative resources or different challenges.  
-This can be seen in the mission From the Ground Up in Breath of the Wild, in which all you have to do is recollect materials and delivering them like in many other games, but what I think makes this mission more special is that you can see the progress that you are making while watching a village being slowly build up thanks to your help, and seeing more and more people living in the village and selling their products. 
+
+This can be seen in the mission "From the Ground Up" in Breath of the Wild, in which all you have to do is recollect materials and delivering them like in many other games, but what I think makes this mission more special is that you can see the progress that you are making while watching a village being slowly build up thanks to your help, and seeing more and more people living in the village and selling their products. 
 
 ![d](https://www.zeldadungeon.net/wp-content/uploads/2020/06/zelda_botw_tarrey_town_1-1-e1592850858839.jpg)
 
