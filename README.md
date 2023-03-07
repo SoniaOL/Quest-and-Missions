@@ -12,6 +12,14 @@ On the other hand, side quests are optional tasks that the players can complete 
 
 There can be many types of missions and quests depending on the game's genre, story and mechanics, but here I will explain some tips you can use yo make your own. 
 
+## Common types of quests 
+
+- Kill Quests: The player is sent to kill something or someone for a reward.
+- Delivery Quests: Require you to deliver an item from one location to another.
+- Escort Quests: Consist in protecting a character as they move through a dangerous area to safety. 
+- Gather Quests: The player must collect a specific number of items from a location or take them by killing enemies. 
+- Hybrid Quests: Different types combined to form more complex quests. 
+
 # What to avoid while writing a quest 
 
 ## 1. Don't make strangers ask for favors
