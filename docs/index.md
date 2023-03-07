@@ -1,9 +1,26 @@
 
 # Quests-and-Missions
 
-# Introduction
+# Contents
 
-## Definition
+1. Definition
+* Common types of quests
+ 
+2. What to avoid while writing a quest 
+* Don't make strangers ask for favors
+* Be careful with repetitive missions
+* Don't force the player to do useless missions just to add more time to your gameplay
+* Don't make challenges too hard or too easy
+ 
+3. Tips for designing quests and missions
+* Using missions to immerse the player in the story
+* Give challenges and prices to your players 
+* Offer variety to the game
+* Elaborate on the same mechanics
+
+4. Conclusions 
+
+# Definition
 
 Missions and quests in videogames are specific objectives that the player must complete in order to achieve something in the game. These may or may not be necessary to reach the end of the game depending on which type they are and can vary widely in difficulty. 
 
