@@ -122,7 +122,7 @@ In order to make missions it is important not only to do it for the sake of fill
 ](https://www.youtube.com/watch?v=otAkP5VjIv8)
 - [Quest Design - II: How to Create Interesting MMO and RPG Quests - Extra Credits](https://www.youtube.com/watch?v=ur6GQp5mCYs)
 - [How to Write Side Quests for Video Games - 2023 - MasterClass](https://www.masterclass.com/articles/how-to-write-side-quests-for-video-games)
-- [Colossal Cave Adventure (1976) | Insert Coin](https://www.insertcoinclasicos.com/2021/09/10/colossal-cave-adventure-1976/)
+- [Colossal Cave Adventure (1976)  Insert Coin](https://www.insertcoinclasicos.com/2021/09/10/colossal-cave-adventure-1976/)
 - [Sidequest meaning: How a video game chore became a cinematic storytelling technique](https://www.inverse.com/gaming/side-quest-meaning-video-games#:~:text=The%20birth%20of%20sidequests,to%20outrightly%20skip%20certain%20objectives)
 - [How "grinding" came to dominate video game culture](https://www.inverse.com/gaming/how-grinding-came-to-dominate-video-game-culture)
 
