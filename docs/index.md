@@ -5,12 +5,13 @@
 
 1. Definition
 * Common types of quests
+* Brief history of missions and quests in RPGs
  
 2. What to avoid while writing a quest 
 * Don't make strangers ask for favors
 * Be careful with repetitive missions
-* Don't force the player to do useless missions just to add more time to your gameplay
-* Don't make challenges too hard or too easy
+* Practice moderation
+* Don't make irrelevant missions important to complete the game
  
 3. Tips for designing quests and missions
 * Using missions to immerse the player in the story
@@ -38,6 +39,26 @@ There can be many types of missions and quests depending on the game's genre, st
 - Gather Quests: The player must collect a specific number of items from a location or take them by killing enemies. 
 - Hybrid Quests: Different types combined to form more complex quests. 
 
+## Brief history of missions and quests in RPGs
+
+The first quests can be seen in the early text-based games. These were pretty simple and straightforward and normally focused on defeating enemies and advancing through different levels recollecting items. 
+
+Colossal Cave Adventure(1976) is an example of this. In this game you have the mission of exploring a cave and searching for treasures, but it did not count with side quests. 
+
+![](https://www.insertcoinclasicos.com/wp-content/uploads/2021/09/Colossal-Cave-adventure-screenshot-02.png)
+
+Later with the rise of RPGs in the 1980s and 1990s, the quests became more complex and story driven. At this time came the birth of side quests with the release of Dragon Quest in 1986, however this had the problem that although these missions were technically optional, skipping them meant you’d miss out on crucial story details. 
+ 
+![](https://upload.wikimedia.org/wikipedia/en/7/70/Dragon_quest_battle_2.png)
+
+The game that first had optional quests that weren’t necessary for the main plot was Pool of Radiance(1988), which added more dialog and boss fights to the game. 
+
+![](https://i.ytimg.com/vi/ekLJ7kseBVk/maxresdefault.jpg)
+
+In 1991 Neverwinter Nights was created, which is considered to be the first MMORPG and one of the first to include a lot of quests and errands from NPCs, that after completition gave you experience, gold and items. This was the idea that was taken later by Ultima Online(1997) and World of Warcraft(2004), creating repetitive missions that now are associated with grinding, forcing the players to play a mission multiple times in order to slowly being more strong and getting the items they want. 
+
+![](https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3dvdy1ndWlkZS0xMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjI5MH19fQ==)
+
 # What to avoid while writing a quest 
 
 ## 1. Don't make strangers ask for favors
@@ -48,13 +69,13 @@ One thing that can make your players lose interest in a mission, is having to co
 
 Every mission in your game doesn't have to be a unique experience, but at least it is a good idea to make different categories of missions and add variety from them. 
 
-## 3. Don't force the player to do useless missions just to add more time to your gameplay
+## 3. Practice moderation
 
-If a mission is just there without adding anything special to the game, don't make the players have to do it in order to complete the main plot of the game. 
+Avoid loading your game with endless side quests, as they can start to feel overwhelming and become tedious and repetitive for the player. 
 
-## 4. Don't make challenges too hard or too easy 
+## 4. Don't make irrelevant missions important to complete the game 
 
-In order to keep your players motivated the difficulty of the mission must vary depending on the reward and how far into the game is the challenge. Remember to give the player all the tool that they will need in order to succeed. 
+ Don't force the player to complete missions without relevance in order to complete the main plot. If you give them the oportunity to choose when to do this type of missions, it's more probably for them to enjoy them.
 
 # Tips for designing quests and missions
 
@@ -100,4 +121,8 @@ In order to make missions it is important not only to do it for the sake of fill
 - [Quest Design - I: Why Many MMOs Rely on Repetitive Grind Quests - Extra Credits
 ](https://www.youtube.com/watch?v=otAkP5VjIv8)
 - [Quest Design - II: How to Create Interesting MMO and RPG Quests - Extra Credits](https://www.youtube.com/watch?v=ur6GQp5mCYs)
+- [How to Write Side Quests for Video Games - 2023 - MasterClass](https://www.masterclass.com/articles/how-to-write-side-quests-for-video-games)
+- [Colossal Cave Adventure (1976) | Insert Coin](https://www.insertcoinclasicos.com/2021/09/10/colossal-cave-adventure-1976/)
+- [Sidequest meaning: How a video game chore became a cinematic storytelling technique](https://www.inverse.com/gaming/side-quest-meaning-video-games#:~:text=The%20birth%20of%20sidequests,to%20outrightly%20skip%20certain%20objectives)
+- [How "grinding" came to dominate video game culture](https://www.inverse.com/gaming/how-grinding-came-to-dominate-video-game-culture)
 
