@@ -109,6 +109,10 @@ Depending on the game it won't be necessary to reach this extreme of variety, es
 This can be seen in the mission "From the Ground Up" in Breath of the Wild, in which all you have to do is recollect materials and delivering them like in many other games, but what I think makes this mission more special is that you can see the progress that you are making while watching a village being slowly build up thanks to your help, and seeing more and more people living in the village and selling their products. 
 
 ![d](https://www.zeldadungeon.net/wp-content/uploads/2020/06/zelda_botw_tarrey_town_1-1-e1592850858839.jpg)
+## Diagram Examples
+![](https://github.com/SoniaOL/Quest-and-Missions/blob/main/docs/images/Quests_Diagram.png)
+### Missions in Omori example
+![](https://github.com/SoniaOL/Quest-and-Missions/blob/main/docs/images/omori_diagram.png)
 
 # Conclusions 
 
