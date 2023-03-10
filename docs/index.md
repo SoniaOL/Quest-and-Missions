@@ -110,10 +110,9 @@ This can be seen in the mission "From the Ground Up" in Breath of the Wild, in w
 
 ![d](https://www.zeldadungeon.net/wp-content/uploads/2020/06/zelda_botw_tarrey_town_1-1-e1592850858839.jpg)
 ## Diagram Examples
-![a](https://github.com/SoniaOL/Quest-and-Missions/blob/main/docs/images/Quests_Diagram.png)
+![a](https://raw.githubusercontent.com/SoniaOL/Quest-and-Missions/main/docs/images/Quests_Diagram.png)
 ### Missions in Omori example
-![a](https://github.com/SoniaOL/Quest-and-Missions/blob/main/docs/images/omori_diagram.png)
-
+![a](https://raw.githubusercontent.com/SoniaOL/Quest-and-Missions/main/docs/images/omori_diagram.png)
 # Conclusions 
 
 In order to make missions it is important not only to do it for the sake of filling the game, but to give a nice experience to the player, giving them stories, funny situations, difficult challenges and just making them feel curiosity of the world that you have created. 
