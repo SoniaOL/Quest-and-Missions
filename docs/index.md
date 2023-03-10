@@ -110,7 +110,7 @@ This can be seen in the mission "From the Ground Up" in Breath of the Wild, in w
 
 ![d](https://www.zeldadungeon.net/wp-content/uploads/2020/06/zelda_botw_tarrey_town_1-1-e1592850858839.jpg)
 ## Diagram Examples
-![](https://github.com/SoniaOL/Quest-and-Missions/blob/main/docs/images/Quests_Diagram.png)
+![](https://raw.githubusercontent/SoniaOL/Quest-and-Missions/blob/main/docs/images/Quests_Diagram.png)
 ### Missions in Omori example
 ![](https://github.com/SoniaOL/Quest-and-Missions/blob/main/docs/images/omori_diagram.png)
 
